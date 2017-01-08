@@ -27,11 +27,10 @@ We could get rid of the hash by sorting the string, I could go either way but I'
 
 ### 5) Walk Through
 I'll implement a method that:
-1. Terminates and returns false if the length of the string is > 128.
-2. Sort the string.
-3. Walk over the string
-4. Keep track of all characters found in a hash
-5. Terminate when a char is reached that's already in the hash (returning false), or when we reach the end of the string (returning true)
+   1. Terminates and returns false if the length of the string is > 128.
+   2. Sort the string.
+   3. Walk over the string
+   4. Terminate when a char is reached that's the same as the last char (returning false), or when we reach the end of the string (returning true)
 
 
 ### 6) Implement
