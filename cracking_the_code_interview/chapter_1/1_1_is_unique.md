@@ -10,9 +10,9 @@ Given some input `'quickness'` the function should return `true`. I'll use this 
 
 ### 3) Brute Force
 We could:
-1. Walk over the string
-2. Keep track of all characters found in a hash
-3. Terminate when a char is reached that's already in the hash (returning false), or when we reach the end of the string (returning true)
+   1. Walk over the string
+   2. Keep track of all characters found in a hash
+   3. Terminate when a char is reached that's already in the hash (returning false), or when we reach the end of the string (returning true)
 
 This would run in O(N) time and space, where N is the length of the string.
 
