@@ -23,7 +23,7 @@ We could do something like the following:
 
 
 ### 4) Optimize
-We know that a and b can't be the permutations of one another if they aren't the same length. Therefore, if we compare string lengths first, we can reduce (or at least simplify) the runtime of the algorithm to O(log N), where N is length of either string.
+We know that a and b can't be permutations of one another if they aren't the same length. Therefore, if we compare string lengths first, we can reduce (or at least simplify) the runtime of the algorithm to O(log N), where N is length of either string.
 
 If we don't care about preserving a and b, we could sort them destructively which would reduce memory footprint to O(1). For the purposes of this exercise, I will assume that we need to preserve the inputs.
 
