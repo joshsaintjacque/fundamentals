@@ -5,3 +5,4 @@ by Gayle Laakmann McDowell
 Arrays and Strings
 
 - [1.1: Is Unique](https://github.com/joshsaintjacque/fundamentals/blob/master/cracking_the_code_interview/chapter_1/1_1_is_unique.md)
+- [1.2: Check Permutation](https://github.com/joshsaintjacque/fundamentals/blob/master/cracking_the_code_interview/chapter_1/1_2_check_permutation.md)
