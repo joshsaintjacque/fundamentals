@@ -91,7 +91,7 @@ function maxOnes(matrix) {
 }
 ```
 
-#### C\#
+#### CSharp
 ```csharp
 public static int MaxOnes(int[,] matrix)
 {
