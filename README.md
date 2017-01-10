@@ -47,6 +47,8 @@ I will be roughly following the process for walking through a process introduced
 ### Collections
 
 - [*Cracking the Coding Interview* (6th Edition) by Gayle Laakmann McDowell](../master/cracking_the_code_interview/overview.md)
+- [Misc. Challenges](../master/misc/overview.md)
+
 
 ### License
 
